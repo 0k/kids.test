@@ -30,7 +30,7 @@ Maturity
 This is alpha release. It's only a repository with a few recipes and holds very
 few interests. It might be more consistent in the future.
 
-It lack any sensible documentation and has nothing ground breaking in its core.
+It lacks any sensible documentation and has nothing ground breaking in its core.
 
 
 Features
